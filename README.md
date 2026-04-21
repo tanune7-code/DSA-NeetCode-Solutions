@@ -21,7 +21,7 @@ Hi, I'm actively solving Data Structures & Algorithms problems from NeetCode to 
 - Dynamic Programming
 
 ## 🔥 Progress
-- Total Problems Solved: 12 
+- Total Problems Solved: 13 
 
 ---
 
